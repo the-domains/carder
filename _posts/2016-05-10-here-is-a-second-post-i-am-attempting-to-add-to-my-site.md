@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Here is a second post i am attempting to add to my site
-datePublished: '2016-05-10T20:29:24.122Z'
-dateModified: '2016-05-10T20:29:23.957Z'
+datePublished: '2016-05-10T20:31:03.479Z'
+dateModified: '2016-05-10T20:30:37.252Z'
 authors: []
 publisher:
   name: null
@@ -15,8 +15,8 @@ publisher:
   favicon: null
 title: ''
 author: []
-starred: false
 sourcePath: _posts/2016-05-10-here-is-a-second-post-i-am-attempting-to-add-to-my-site.md
+starred: true
 url: here-is-a-second-post-i-am-attempting-to-add-to-my-site/index.html
 _type: Article
 
